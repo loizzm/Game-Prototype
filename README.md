@@ -1,5 +1,5 @@
 # Game-Prototype
-<p style ="font-size: 30px"><em> Jogo "inspirado" em zelda feito em C com a biblioteca allegro</em></p>
+<p style ="font-size: 30px"><em> Jogo "inspirado" em zelda feito em  linguagem C com a biblioteca allegro</em></p>
 <p><strong>Objetivos:</strong></p>
 <ul>
   <li>Praticar linguagem C</li>
